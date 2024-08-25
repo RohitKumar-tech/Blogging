@@ -85,6 +85,6 @@ If you wish to contribute to this project, feel free to fork the repository and 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
+## author
 
-Feel free to customize this README further according to your specific requirements!
+- [Rohit Kumar](www.rohitsaraf.in)
