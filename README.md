@@ -1,7 +1,3 @@
-Here's a proper README for your Fullstack MERN Blogging Website project:
-
----
-
 # MERN Blogging Website
 
 This is a modern, feature-rich blogging website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The website includes a variety of functionalities tailored for an optimal blogging experience.
